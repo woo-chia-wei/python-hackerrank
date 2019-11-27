@@ -1,3 +1,4 @@
 # About
 1. (Medium) compress-the-string [[question](https://www.hackerrank.com/challenges/compress-the-string/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/01-medium-compress-the-string.ipynb)]
 1. (Medium) iterables-and-iterators [[question](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/02-medium-iterables-and-iterators.ipynb)]
+1. (Medium) pilling-up [[question](https://www.hackerrank.com/challenges/piling-up/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/03-medium-pilling-up.ipynb)]
