@@ -1,2 +1,2 @@
 # About
-1. (Medium) compress-the-string [question](https://www.hackerrank.com/challenges/compress-the-string/problem) [solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/01-medium-compress-the-string.ipynb)
+1. (Medium) compress-the-string [[question](https://www.hackerrank.com/challenges/compress-the-string/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/01-medium-compress-the-string.ipynb)]
