@@ -3,3 +3,4 @@
 1. (Medium) iterables-and-iterators [[question](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/02-medium-iterables-and-iterators.ipynb)]
 1. (Medium) pilling-up [[question](https://www.hackerrank.com/challenges/piling-up/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/03-medium-pilling-up.ipynb)]
 1. (Medium) word-order [[question](https://www.hackerrank.com/challenges/word-order/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/04-medium-word-order.ipynb)]
+1. (Hard) matrix-script [[question](https://www.hackerrank.com/challenges/matrix-script/problem)] [[solution](https://github.com/woo-chia-wei/python-hackerrank/blob/master/05-hard-matrix-script.ipynb)]
